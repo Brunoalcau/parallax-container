@@ -2,6 +2,7 @@
   "name": "parallax-container#gh-pages",
   "private": true,
   "dependencies": {
-    "parallax-container": "winhowes/parallax-container#master"
+    "parallax-container": "winhowes/parallax-container#master",
+    "iron-doc-viewer": "PolymerElements/iron-doc-viewer#^0.8.6"
   }
 }
